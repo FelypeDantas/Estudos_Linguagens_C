@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Gerador de Chaves Aleatórias PIX</Title>
+    <Description>Esse pacote se destina gerar chaves PIX de forma aleatória, usando os recursos da estrutura Guid.</Description>
+  </PropertyGroup>
+
+</Project>

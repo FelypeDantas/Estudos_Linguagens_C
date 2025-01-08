@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPublishable>True</IsPublishable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bytebank_Modelos\bytebank_Modelos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="bytebank_GeradorChavePix">
+      <HintPath>..\bytebank_GeradorChavePix.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+      
+
+
+
+
+
+
+  
+</Project>

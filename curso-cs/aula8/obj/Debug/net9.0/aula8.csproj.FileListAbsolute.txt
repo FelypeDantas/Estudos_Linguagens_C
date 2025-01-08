@@ -1,0 +1,14 @@
+C:\Users\Felype Dantas\Desktop\aula8\bin\Debug\net9.0\aula8.exe
+C:\Users\Felype Dantas\Desktop\aula8\bin\Debug\net9.0\aula8.deps.json
+C:\Users\Felype Dantas\Desktop\aula8\bin\Debug\net9.0\aula8.runtimeconfig.json
+C:\Users\Felype Dantas\Desktop\aula8\bin\Debug\net9.0\aula8.dll
+C:\Users\Felype Dantas\Desktop\aula8\bin\Debug\net9.0\aula8.pdb
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.AssemblyInfoInputs.cache
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.AssemblyInfo.cs
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.csproj.CoreCompileInputs.cache
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.dll
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\refint\aula8.dll
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.pdb
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\aula8.genruntimeconfig.cache
+C:\Users\Felype Dantas\Desktop\aula8\obj\Debug\net9.0\ref\aula8.dll
