@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Alura.Adopet.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    }
+  }
+}
