@@ -1,7 +1,19 @@
-string curso = "C#: Criando a sua primeira aplicação";
-string nomeCompleto = "Felype Dantas";
-string instrutor = "Gui Lima";
+public class CursoInfo
+{
+    public string Curso { get; set; } = string.Empty;
+    public string Aluno { get; set; } = string.Empty;
+    public string Instrutor { get; set; } = string.Empty;
+}
 
-Console.WriteLine($"Curso: {curso}");
-Console.WriteLine($"Aluno: {nomeCompleto}");
-Console.WriteLine($"Instrutor: {instrutor}");
+var cursoInfo = new CursoInfo
+{
+    Curso = "C#: Criando a sua primeira aplicação",
+    Aluno = "Felype Dantas",
+    Instrutor = "Gui Lima"
+};
+
+Console.WriteLine($"""
+    Curso: {cursoInfo.Curso}
+    Aluno: {cursoInfo.Aluno}
+    Instrutor: {cursoInfo.Instrutor}
+    """);
